@@ -1,0 +1,19 @@
+html, body {
+  font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-size:12px;
+  background:#fff;
+  color:#4f4f4f;
+}
+
+div.center {
+  width:400px;
+  height:110px;
+  position:absolute;
+  left:50%; top:50%;
+  margin:-55px 0 0 -200px;
+  text-align:center;
+}
+
+div.center p {
+  text-align:right;
+}
